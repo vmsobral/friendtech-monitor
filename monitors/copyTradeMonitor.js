@@ -1,5 +1,5 @@
 const ethers = require('ethers')
-const { contract } = require('./friendtechContract')
+const { contract } = require('../friendtechContract')
 const tradersWallets = require('./copyTradeWallets.json')
 
 const PORTFOLIO = {
