@@ -1,0 +1,12 @@
+[
+    {
+        "name": "A",
+        "handler": "twitter_handlerA",
+        "wallet": "0xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+        "name": "B",
+        "handler": "twitter_handlerB",
+        "wallet": "0xBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
+    }
+]
